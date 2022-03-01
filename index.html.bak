@@ -96,7 +96,11 @@
 							<ul class="about-info mt-4 px-md-0 px-2">
 								<li class="d-flex"><span>Name:</span> <span>Vinoth Gopal</span></li>
 								<li class="d-flex"><span>Date of birth:</span> <span>June 05, 1992</span></li>
-								<li class="d-flex"><span>Address:</span> <span>Alandur Chennai TN</span></li>
+<<<<<<< HEAD
+								<li class="d-flex"><span>Address:</span> <span>Alandur Chennai TN, India</span></li>
+=======
+								<li class="d-flex"><span>Address:</span> <span>Alandur Chennai TN,India</span></li>
+>>>>>>> 07ee551b9a99e8d6f78d40b41033de32cbdaf5f2
 								<li class="d-flex"><span>Zip code:</span> <span>600106</span></li>
 								<li class="d-flex"><span>Email:</span> <span>vinothgopal.qa@gmail.com</span></li>
 								<li class="d-flex"><span>Phone: </span> <span>+91-900-345-0978</span></li>
@@ -110,7 +114,7 @@
 								<span class="number" data-number="12">0</span>
 								<span>Project complete</span>
 							</p>
-							<p><a href="./files/VinothGopal_Automation_Testing_7Years.doc"
+							<p><a href="./files/VinothGopal_Automation_8YOE.pdf"
 									class="btn btn-primary py-3 px-3">Download CV</a></p>
 						</div>
 					</div>
